@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jeneel+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Engineer;Shipping+AI+from+notebook+to+production.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Jeneel+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Engineer;From+notebook+to+production.)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JeneelPanchalV&color=F59E0B&style=flat-square&label=Profile+Views)](https://github.com/JeneelPanchalV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeneel-panchal-lu767ffy/)
@@ -162,13 +162,30 @@ $ git log --oneline -4
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [jeneel-panchal-lu767ffy](https://www.linkedin.com/in/jeneel-panchal-lu767ffy/) |
-| 📧 Email | [jeneelpanchal74@gmail.com](mailto:jeneelpanchal74@gmail.com) |
-| 🐙 GitHub | [@JeneelPanchalV](https://github.com/JeneelPanchalV) |
+### Let's build something at the edge of ML and real software.
 
-**Building something at the edge of ML and real software? Let's talk.**
+<br/>
+
+<a href="https://www.linkedin.com/in/jeneel-panchal-lu767ffy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:jeneelpanchal74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/JeneelPanchalV">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+```ansi
+┌────────────────────────────────────────────────────────────────────────┐
+│  ● OPEN TO WORK    │   AI/ML Engineer · SWE   │   Graduating May 2026  │
+│  ● FULL-TIME       │   Remote · Onsite        │   Response < 24h       │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
