@@ -180,6 +180,6 @@ $ git log --oneline -4
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/footer1.jpeg" alt="Atmospheric closer" width="100%"/>
+<img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/footerw.jpeg" alt="Atmospheric closer" width="100%"/>
 
 </div>
