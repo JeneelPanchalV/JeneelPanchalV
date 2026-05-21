@@ -30,9 +30,10 @@ jeneel = {
 > works outside the notebook, with reliability humans can trust.
 
 ---
+
 <div align="center">
-    
-## 🛠️ Languages & tools I Have placed My Hands On
+
+## 🛠️ Languages & Tools I Have Placed My Hands On
 
 </div>
 
@@ -43,8 +44,9 @@ jeneel = {
 </div>
 
 ---
+
 <div align="center">
-    
+
 ## 🚀 Best Repositories
 
 </div>
@@ -64,7 +66,7 @@ Cybersecurity threat intelligence assistant — fine-tuned **Llama-3.1-8B** on *
 </td>
 <td width="50%" valign="top">
 
-### 📈  ML Model Monitor
+### 📈 ML Model Monitor
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeneelPanchalV/ML-Model-Monitor-main)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EC4899?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,13 +75,13 @@ Cybersecurity threat intelligence assistant — fine-tuned **Llama-3.1-8B** on *
 Production-grade ML monitoring system for **credit card fraud detection** — auto-detects data drift, concept drift & performance degradation, then **retrains the model without human intervention**.
 
 </td>
-<td width="50%" valign="top">
 </tr>
 </table>
 
 ---
+
 <div align="center">
-    
+
 ## ⚙️ Tech Stack
 
 </div>
@@ -139,7 +141,7 @@ Production-grade ML monitoring system for **credit card fraud detection** — au
 </div>
 
 <div align="center">
-    
+
 ### 👾 Contribution Arcade
 
 </div>
@@ -167,9 +169,10 @@ $ git log --oneline -4
 ```
 
 ---
+
 <div align="center">
-    
-## 📬 Contact me:
+
+## 📬 Contact Me
 
 </div>
 
@@ -187,19 +190,11 @@ $ git log --oneline -4
 
 <br/><br/>
 
-```ansi
-┌────────────────────────────────────────────────────────────────────────┐
-│  ● OPEN TO WORK    │   AI/ML Engineer · SWE   │   Graduating May 2026  │
-│  ● FULL-TIME       │   Remote · Onsite        │   Response < 24h       │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
 </div>
-
----
-
 <div align="center">
 
-*"The best model is the one that ships — and keeps shipping."*
+<img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/footer.jpeg" alt="Atmospheric closer" width="100%"/>
+
+<br/>
 
 </div>
