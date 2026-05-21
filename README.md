@@ -172,7 +172,7 @@ $ git log --oneline -4
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:jeneelpanchal74@gmail.com"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/gmail.svg" height="40" alt="Gmail"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/JeneelPanchalV"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/github.svg" height="40" alt="GitHub"/></a>
+<a href="https://github.com/JeneelPanchalV"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/github-dark.svg" height="40" alt="GitHub"/></a>
 
 <br/><br/>
 
