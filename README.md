@@ -9,7 +9,6 @@
 
 </div>
 
-
 ## 👨‍💻 whoami
 
 ```python
@@ -28,8 +27,6 @@ jeneel = {
 > with grounded retrieval to production ML monitoring pipelines — I build AI that
 > works outside the notebook, with reliability humans can trust.
 
----
-
 <div align="center">
 
 ## 🛠️ Languages & Tools I Have Placed My Hands On
@@ -41,8 +38,6 @@ jeneel = {
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,react,nextjs,typescript,javascript,tailwind,html,css,fastapi,flask,nodejs,express,dotnet,postgres,mongodb,redis,mysql,aws,azure,gcp,docker,kubernetes,git,github,vscode,linux,bash,postman,figma&theme=dark&perline=11" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -76,8 +71,6 @@ Production-grade ML monitoring system for **credit card fraud detection** — au
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
@@ -125,8 +118,6 @@ Production-grade ML monitoring system for **credit card fraud detection** — au
 
 </div>
 
----
-
 <div align="center">
 
 ## 📊 Github Stats
@@ -151,8 +142,6 @@ Production-grade ML monitoring system for **credit card fraud detection** — au
 
 </div>
 
----
-
 <div align="center">
 
 ## 🔥 Currently Working On
@@ -166,8 +155,6 @@ $ git log --oneline -4
 →  Deepening MLOps: drift detection, auto-retraining, evaluation pipelines
 →  Open to AI/ML Engineer & Software Engineer roles — May 2026 onward
 ```
-
----
 
 <div align="center">
 
@@ -190,10 +177,9 @@ $ git log --oneline -4
 <br/><br/>
 
 </div>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/footer1.jpeg" alt="Atmospheric closer" width="100%"/>
-
-<br/>
 
 </div>
