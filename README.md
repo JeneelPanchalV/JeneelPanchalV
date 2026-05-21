@@ -163,7 +163,7 @@ $ git log --oneline -4
 
 ---
 
-## `> contact with me`
+## `> contact`
 
 <div align="center">
 
@@ -171,11 +171,11 @@ $ git log --oneline -4
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jeneel-panchal-lu767ffy/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jeneel-panchal-lu767ffy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:jeneelpanchal74@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail"/></a>
+<a href="mailto:jeneelpanchal74@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/></a>
 &nbsp;
-<a href="https://github.com/JeneelPanchalV"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub"/></a>
+<a href="https://github.com/JeneelPanchalV"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/></a>
 
 <br/><br/>
 
