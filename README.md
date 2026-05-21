@@ -11,7 +11,7 @@
 
 ---
 
-## `> whoami`
+## 👨‍💻 whoami
 
 ```python
 jeneel = {
@@ -30,54 +30,24 @@ jeneel = {
 > works outside the notebook, with reliability humans can trust.
 
 ---
+<div align="center">
+    
+## 🛠️ Languages & tools I Have placed My Hands On
 
-## `> tech_stack`
+</div>
 
 <div align="center">
 
-#### ◆ AI / ML / LLMs ◆
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
-
-<br/>
-
-#### ◆ Frontend ◆
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
-
-<br/>
-
-#### ◆ Backend & APIs ◆
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,dotnet&theme=dark" />
-
-<br/>
-
-#### ◆ Data & Storage ◆
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
-
-<br/>
-
-#### ◆ Cloud & DevOps ◆
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github&theme=dark" />
-
-<br/>
-
-#### ◆ Tools ◆
-
-<img src="https://skillicons.dev/icons?i=vscode,linux,bash,postman,figma&theme=dark" />
-
-<br/><br/>
-
-<sub><b>Also working with:</b> Hugging Face · LangChain · LangGraph · OpenAI · Ollama · ChromaDB · Pandas · NumPy · RAG · Streamlit</sub>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,react,nextjs,typescript,javascript,tailwind,html,css,fastapi,flask,nodejs,express,dotnet,postgres,mongodb,redis,mysql,aws,azure,gcp,docker,kubernetes,git,github,vscode,linux,bash,postman,figma&theme=dark&perline=11" />
 
 </div>
 
 ---
+<div align="center">
+    
+## 🚀 Best Repositories
 
-## `> featured_projects`
+</div>
 
 <table>
 <tr>
@@ -94,20 +64,7 @@ Cybersecurity threat intelligence assistant — fine-tuned **Llama-3.1-8B** on *
 </td>
 <td width="50%" valign="top">
 
-### 📚 CiteCheck AI
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeneelPanchalV/CITECHECKAI)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-F59E0B?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000?style=flat-square&logoColor=white)
-
-Evidence-grounded PDF question answering with **multi-layer hallucination defense**. Refuses to answer when evidence is insufficient. Fully local — runs on **Ollama + ChromaDB + Streamlit**. No cloud APIs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 ML Model Monitor
+### 📈  ML Model Monitor
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeneelPanchalV/ML-Model-Monitor-main)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EC4899?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -117,21 +74,63 @@ Production-grade ML monitoring system for **credit card fraud detection** — au
 
 </td>
 <td width="50%" valign="top">
-
-### 🚀 More Coming Soon
-![Status](https://img.shields.io/badge/-In_Development-F59E0B?style=flat-square&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/-Agentic_AI-8B5CF6?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white)
-
-Currently architecting an **Agentic AI Research Assistant** — LangGraph orchestration, GPT-4o reasoning, Tavily search, ChromaDB retrieval, RAGAS evaluation. Stay tuned.
-
-</td>
 </tr>
 </table>
 
 ---
+<div align="center">
+    
+## ⚙️ Tech Stack
 
-## `> github_stats`
+</div>
+
+<div align="center">
+
+**AI / ML / LLMs**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-F59E0B?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Github Stats
+
+</div>
 
 <div align="center">
 
@@ -139,7 +138,11 @@ Currently architecting an **Agentic AI Research Assistant** — LangGraph orches
 
 </div>
 
-### `> contribution_arcade`
+<div align="center">
+    
+### 👾 Contribution Arcade
+
+</div>
 
 <div align="center">
 
@@ -147,11 +150,13 @@ Currently architecting an **Agentic AI Research Assistant** — LangGraph orches
 
 </div>
 
-</div>
-
 ---
 
-## `> currently_working_on`
+<div align="center">
+
+## 🔥 Currently Working On
+
+</div>
 
 ```bash
 $ git log --oneline -4
@@ -162,8 +167,11 @@ $ git log --oneline -4
 ```
 
 ---
+<div align="center">
+    
+## 📬 Contact me:
 
-## `> contact`
+</div>
 
 <div align="center">
 
