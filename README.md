@@ -168,7 +168,7 @@ $ git log --oneline -4
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jeneel-panchal-lu767ffy/"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/linkedin.svg" height="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jeneel-panchal-aiml-engineer/"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/linkedin.svg" height="40" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:jeneelpanchal174@gmail.com"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/gmail.svg" height="40" alt="Gmail"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
